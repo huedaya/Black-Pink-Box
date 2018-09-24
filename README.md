@@ -17,3 +17,5 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 - Hairless MIDI-SERIAL Bridge (http://projectgus.github.com/hairless-midiserial)
 - loopMIDI (https://www.tobias-erichsen.de/software/loopmidi.html)
 
+# Schema
+<img src="https://raw.githubusercontent.com/elybin/Black-Pink-Box/master/process%20diagram%20The%20Black%20Pink%20Box.jpg">
