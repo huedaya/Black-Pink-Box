@@ -13,7 +13,7 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 
 # Software needed
 - Digital Audio Workstation (I recomend Ableton Live 9) (https://www.ableton.com/en/trial/)
-- Basic knowledge of using DAW 
+- Basic knowledge of using DAW (https://www.youtube.com/watch?v=1QPQoZGAA88)
 - Hairless MIDI-SERIAL Bridge (http://projectgus.github.com/hairless-midiserial)
 - loopMIDI (https://www.tobias-erichsen.de/software/loopmidi.html)
 
