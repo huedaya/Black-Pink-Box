@@ -7,6 +7,8 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 # Hardware needed
 - Arduino UNO
 - 8+2 Channel Relay (https://bl.app.link/T9K1deSIsQ)
+- 10 Contra Steker (https://kabelnym.com/shop/brand-series/broco-series/kontra-steker-hitam-broco-334n/)
+- Wires
 - Windows Laptop
 
 # Software needed
