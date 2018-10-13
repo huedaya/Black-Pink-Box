@@ -16,6 +16,7 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 - Basic knowledge of using DAW (https://www.youtube.com/watch?v=1QPQoZGAA88)
 - Hairless MIDI-SERIAL Bridge (http://projectgus.github.com/hairless-midiserial)
 - loopMIDI (https://www.tobias-erichsen.de/software/loopmidi.html)
+- MatroskaSplitter (http://www.free-codecs.com/download/matroska_splitter.htm)
 
 # Schema
 <img src="https://raw.githubusercontent.com/elybin/Black-Pink-Box/master/process%20diagram%20The%20Black%20Pink%20Box%20(1).jpg">
