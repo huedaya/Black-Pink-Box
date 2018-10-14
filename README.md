@@ -51,7 +51,7 @@ Here where the magic happen, this app will convert your `MIDI Signal` into `Seri
 After receive Serial Signal, then `Arduino UNO` will running a program to send voltage to digital pin and trigger the `5V Relay`
 
 # How to Use 
-1. Install Ableton, loopMIDI, Hariless MIDI<->Serial Bridge, MatroskaSplitter,  Quicktime Player, Arduino Driver in your laptop
+1. Install `Ableton`, `loopMIDI`, `Hariless MIDI<->Serial Bridge`, `MatroskaSplitter`,  `Quicktime Player`, `Arduino Driver` on your laptop
 2. Load the Ableton Project file nammed `lighting_test.als` 
 3. Setup your Ableton adapter, goto `Options`->`Preferences`->`MIDI Tab` then select output into `loopMIDI`
 4. Open and start `loopMidi`, make sure there is data received
