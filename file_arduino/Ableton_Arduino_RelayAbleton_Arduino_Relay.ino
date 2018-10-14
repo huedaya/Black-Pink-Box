@@ -1,3 +1,5 @@
+// created by kim 
+// ready to go, just upload to arduino
 // arduino mega PWM pins we will use with leds
 int led[10]={2,3,4,5,6,7,8,9,10,11};
 //cc midi messages three bytes
