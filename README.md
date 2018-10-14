@@ -33,16 +33,16 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 <img src="https://raw.githubusercontent.com/elybin/Black-Pink-Box/master/process%20diagram%20The%20Black%20Pink%20Box%20(1).jpg">
 
 ## 1. DAW (Ableon or FL Studio) [Inside Your Laptop]
-> First, our DAW playing the note sequence `(C-2 = Bulb 1, C#-2 = Bulb 2, ... A-2 = Bulb 10)` sending output as MIDI into `loopMidi Adapter`
+First, our DAW playing the note sequence `(C-2 = Bulb 1, C#-2 = Bulb 2, ... A-2 = Bulb 10)` sending output as MIDI into `loopMidi Adapter`
 
 ## 2. loopMIDI [Inside Your Laptop]
-> Then, loopMIDI will continue the signal into the `Hariless MIDI<->Serial Bridge`, make sure `loopMIDI` switched on.
+Then, loopMIDI will continue the signal into the `Hariless MIDI<->Serial Bridge`, make sure `loopMIDI` switched on.
 
 ## 3. Hariless MIDI<->Serial Bridge [Inside Your Laptop]
-> Here where the magic happen, this app will convert your `MIDI Signal` into `Serial Signal`, so your Arduino UNO could understand what light should turned on/off.
+Here where the magic happen, this app will convert your `MIDI Signal` into `Serial Signal`, so your Arduino UNO could understand what light should turned on/off.
 
 ## 4. Wires
-> `Laptop`   |USB Type-A Male)-----------------------------(USB Type-B Male|    `Arduino UNO`
+`Laptop`   |USB Type-A Male)-----------------------------(USB Type-B Male|    `Arduino UNO`
  
 ## 5. Arduino UNO
-> After receive Serial Signal, then `Arduino UNO` will running a program to send voltage to digital pin and trigger the `5V Relay`
+After receive Serial Signal, then `Arduino UNO` will running a program to send voltage to digital pin and trigger the `5V Relay`
