@@ -13,10 +13,14 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 
 # Software needed
 - Digital Audio Workstation (I recomend Ableton Live 9) (https://www.ableton.com/en/trial/)
+> Used for drawing lighting sequence, playing music and video
 - Basic knowledge of using DAW (https://www.youtube.com/watch?v=1QPQoZGAA88)
 - Hairless MIDI-SERIAL Bridge (http://projectgus.github.com/hairless-midiserial)
+> Used for converting MIDI Signal (come from Ableton) into USB Serial Signal (going to Arduino UNO)
 - loopMIDI (https://www.tobias-erichsen.de/software/loopmidi.html)
+> Act as MIDI Interface, so you can select it as Interface on Ableton
 - MatroskaSplitter (http://www.free-codecs.com/download/matroska_splitter.htm)
+> I don't really know, but you'll needed it to play a video 
 
 # Schema
 <img src="https://raw.githubusercontent.com/elybin/Black-Pink-Box/master/process%20diagram%20The%20Black%20Pink%20Box%20(1).jpg">
