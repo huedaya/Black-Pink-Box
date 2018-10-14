@@ -1,4 +1,5 @@
 # The "Black Pink Box" Project
+<img src="https://github.com/elybin/Black-Pink-Box/blob/master/images/img1.jpg">
 My first Arduino project to controlling 10-channel Relay using MIDI in this case I used Ableton Live 9.
 
 # Background 
@@ -60,3 +61,7 @@ After receive Serial Signal, then `Arduino UNO` will running a program to send v
 7. If you follow the step correctly, you'll hearing the `Relay` starting to clicking, good luck!
 
 # Result
+<img src="https://github.com/elybin/Black-Pink-Box/blob/master/images/img2.jpg">
+
+# Video 
+Coming Soon
