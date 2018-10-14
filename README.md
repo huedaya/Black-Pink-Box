@@ -55,6 +55,6 @@ After receive Serial Signal, then `Arduino UNO` will running a program to send v
 2. Load the Ableton Project file nammed `lighting_test.als` 
 3. Setup your Ableton adapter, goto `Options`->`Preferences`->`MIDI Tab` then select output into `loopMIDI`
 4. Open and start `loopMidi`, make sure there is data received
-5. Connect your `Arduino` and upload the `Ableton_Arduino_Relay.ino` form `file_arduino` into your Arduino. Maybe you'll need `Arduino IDE` in this process.
+5. Connect your `Arduino` and upload the `Ableton_Arduino_Relay.ino` form `file_arduino` folder into your Arduino. Maybe you'll need `Arduino IDE` in this process.
 6. Open `Hariless MIDI<->Serial Bridge` and select `Serial Port` into your `Arduino UNO`, select `MIDI In` into `loopMidi`. Also make sure the green dots blinking
 7. If you follow the step correctly, you'll hearing the `Relay` starting to clicking, good luck!
