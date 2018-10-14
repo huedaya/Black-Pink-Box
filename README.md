@@ -33,7 +33,7 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 <img src="https://raw.githubusercontent.com/elybin/Black-Pink-Box/master/process%20diagram%20The%20Black%20Pink%20Box%20(1).jpg">
 
 ###### 1. DAW (Ableon or FL Studio)
-First, our DAW playing the note sequence (C-2 = Bulb 1, C#-2 = Bulb 2, ... A-2 = Bulb 10) sending output as MIDI into `loopMidi Adapter`
+First, our DAW playing the note sequence `(C-2 = Bulb 1, C#-2 = Bulb 2, ... A-2 = Bulb 10)` sending output as MIDI into `loopMidi Adapter`
 
 ###### 2. loopMIDI
 Then, loopMIDI will continue the signal into the `Hairless MIDI to Serial Bridge`, make sure `loopMIDI` switched on.
