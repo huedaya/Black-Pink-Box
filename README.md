@@ -44,5 +44,5 @@ Here where the magic happen, this app will convert your `MIDI Signal` into `Seri
 ## 4. Wires
 `Laptop`   |USB Type-A Male)-----------------------------(USB Type-B Male|    `Arduino UNO`
  
-## 5. Arduino UNO
+## 5. Arduino UNO [Outside Laptop]
 After receive Serial Signal, then `Arduino UNO` will running a program to send voltage to digital pin and trigger the `5V Relay`
