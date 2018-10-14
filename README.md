@@ -17,7 +17,7 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 
 - Basic knowledge of using DAW (https://www.youtube.com/watch?v=1QPQoZGAA88)
 
-- Hairless MIDI-SERIAL Bridge (http://projectgus.github.com/hairless-midiserial)
+- Hariless MIDI<->Serial Bridge (http://projectgus.github.com/hairless-midiserial)
 > Used for converting MIDI Signal (come from Ableton) into Serial Signal (going to Arduino UNO)
 
 - loopMIDI (https://www.tobias-erichsen.de/software/loopmidi.html)
@@ -36,7 +36,7 @@ Last month I got a challenge to make stunning light/visual show with low budget 
 First, our DAW playing the note sequence `(C-2 = Bulb 1, C#-2 = Bulb 2, ... A-2 = Bulb 10)` sending output as MIDI into `loopMidi Adapter`
 
 ###### 2. loopMIDI
-Then, loopMIDI will continue the signal into the `Hairless MIDI to Serial Bridge`, make sure `loopMIDI` switched on.
+Then, loopMIDI will continue the signal into the `Hariless MIDI<->Serial Bridge`, make sure `loopMIDI` switched on.
 
 ###### 3. Hariless MIDI<->Serial Bridge
 Here where the magic happen, this app will convert your `MIDI Signal` into `Serial Signal`, so your arduino could understand what light should turned on/off.
